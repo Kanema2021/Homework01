@@ -7,6 +7,10 @@ I placed all heading attributes in sequential order and added a concise, descrip
 Finally I checked all links were working properly.
 
 
+https://kanema2021.github.io/Homework01/
+
+https://github.com/Kanema2021/Homework01.git
+
 
 
 
